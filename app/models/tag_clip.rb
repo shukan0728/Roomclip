@@ -1,0 +1,2 @@
+class TagClip < ApplicationRecord
+end
